@@ -1,8 +1,6 @@
 .DS_Store
 .vscode
-/data
 /models
-/submission
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
