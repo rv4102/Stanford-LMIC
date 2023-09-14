@@ -1,4 +1,4 @@
-# Stanford-FT
+# Stanford-LMIC
 
 ## Description
 
