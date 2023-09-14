@@ -1,6 +1,7 @@
 .DS_Store
 .vscode
 /models
+/data/*.parquet.gzip
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
